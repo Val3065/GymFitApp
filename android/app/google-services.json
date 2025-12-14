@@ -1,0 +1,24 @@
+{
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540275784924:android:80f5a6249dc6e697734819",
+        "android_client_info": {
+          "package_name": "com.gymfit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrNMclWYs9QLpQ5cnugotWxbh0g2x_GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
